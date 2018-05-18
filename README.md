@@ -1,4 +1,4 @@
-### Solar System Exploration, 1950s – 1960s
+### Face-Recognition-System
 
 - [x] Learning Linear Regression 
 - [ ] Implementing Linear Regression
