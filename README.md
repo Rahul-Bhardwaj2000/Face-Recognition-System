@@ -1,9 +1,9 @@
 ### Face-Recognition-System
 
 - [x] Learning Linear Regression 
-- [ ] Implementing Linear Regression
+- [x] Implementing Linear Regression
 - [x] Learning Logistic Regression
-- [ ] Implementing Logistic Regression 
+- [x] Implementing Logistic Regression 
 - [ ] Learning Softmax Regression
 - [ ] Implementing Softmax Regression
 - [ ] Nearest Neighbour
