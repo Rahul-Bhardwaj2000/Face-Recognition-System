@@ -6,6 +6,6 @@
 - [x] Implementing Logistic Regression 
 - [ ] Learning Softmax Regression
 - [ ] Implementing Softmax Regression
-- [ ] Nearest Neighbour
+- [x] Nearest Neighbour
 
 
