@@ -7,5 +7,11 @@
 - [ ] Learning Softmax Regression
 - [ ] Implementing Softmax Regression
 - [x] Nearest Neighbour
+- [x] Bernouli Distribution
+- [x] Gaussian Distribution
+- [x] Poisson Ditsribution
+- [ ] Chi Distribution
+- [x] PCA implementation
+- [ ] Eigenfaces implementation
 
 
