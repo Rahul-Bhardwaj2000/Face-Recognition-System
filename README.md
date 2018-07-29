@@ -4,14 +4,14 @@
 - [x] Implementing Linear Regression
 - [x] Learning Logistic Regression
 - [x] Implementing Logistic Regression 
-- [ ] Learning Softmax Regression
-- [ ] Implementing Softmax Regression
+- [x] Learning Softmax Regression
+- [x] Implementing Softmax Regression
 - [x] Nearest Neighbour
 - [x] Bernouli Distribution
 - [x] Gaussian Distribution
 - [x] Poisson Ditsribution
-- [ ] Chi Distribution
+- [x] Chi Distribution
 - [x] PCA implementation
-- [ ] Eigenfaces implementation
+- [x] Eigenfaces implementation
 
 
